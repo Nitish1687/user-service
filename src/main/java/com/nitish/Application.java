@@ -1,6 +1,5 @@
 package com.nitish;
 
-import com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
